@@ -9,20 +9,6 @@
 ## 🌐 Source Directory: eSim & Mobile Providers Japan 2026
 This analysis is based on official tariff data and network coverage maps from the respective providers (as of early 2026).
 
-<style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0; width:100%;}
-  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    overflow:hidden;padding:10px 5px;word-break:normal;color:#fff;}
-  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;color:#fff;background-color:#2c3e50;} /* Hintergrund Kopfzeile */
-  .tg .tg-first-col {background-color:#34495e; font-weight:bold;} /* Hintergrund erste Spalte */
-  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-  
-  /* Link-Farben für dunklen Hintergrund anpassen */
-  .tg a {color: #3498db; text-decoration: none;}
-  .tg a:hover {text-decoration: underline;}
-</style>
-
 <table class="tg">
 <thead>
   <tr>
